@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CS5004-Lab6-Battleship-Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS5004_Lab6_Battleship_Game_jar</output-path>
+    <root id="archive" name="CS5004-Lab6-Battleship-Game.jar">
+      <element id="module-output" name="CS5004-Lab6-Battleship-Game" />
+      <element id="module-test-output" name="CS5004-Lab6-Battleship-Game" />
+    </root>
+  </artifact>
+</component>
